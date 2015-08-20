@@ -1,4 +1,4 @@
-package fp.structure.rmq
+package fp.persistent.rmq
 
 /**
  * Created by mzhang on 8/16/15.
